@@ -1,0 +1,7 @@
+{
+    "domains": ["example.com", "google.com"],
+    "tempmail": "True",
+    "tempmailkey": "1234",
+    "familyAuthKey": ["1234567", "7654321"],
+    "schoolPath": "RealNotFakeHighSchoolName"
+}
